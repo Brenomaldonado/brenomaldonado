@@ -20,6 +20,7 @@
   <img align="center" alt="Breno-Vuejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align="center" alt="Breno-Webpack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
   <img align="center" alt="Breno-Gulp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />
+  <img align="center" alt="Breno-Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
   
   ##
   
